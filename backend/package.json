@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "vinh",
+  "main": "123",
+  "scripts": {
+    "test": "1"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "vinh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0"
+  }
+}
